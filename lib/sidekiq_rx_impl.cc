@@ -11,6 +11,7 @@
 #include <volk/volk.h>
 #include <boost/asio.hpp>
 #include <chrono>
+#include "../include/pmt_fmt.h"
 
 #define DEBUG_LEVEL "debug" //Can be debug, info, warning, error, critical
 

@@ -10,6 +10,7 @@
 #include <boost/foreach.hpp>
 #include <pthread.h>
 
+#include "../include/pmt_fmt.h"
 #include "sidekiq_tx_impl.h"
 
 
